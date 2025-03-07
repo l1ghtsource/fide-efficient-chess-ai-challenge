@@ -1,4 +1,4 @@
-# FIDE & Google Efficient Chess AI Challenge
+# FIDE & Google Efficient Chess AI Challenge (Kaggle Silver Medal)
 
 ## Description
 
