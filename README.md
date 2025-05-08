@@ -21,3 +21,7 @@ My solution based entirely on the [Ethereal 13.00](https://github.com/AndyGrant/
 - increment (idk why)
 
 So, in just one evening, making minimal changes to the open source Ethereal engine could get you a silver medal. The solution weighs only 33.1 KB and does not use NNUE. Sadly, I didn't find enough time for this contest and didn't give the cfish engine the attention it deserved.
+
+## Certificate
+
+![certificate](certificate.png)
